@@ -1,0 +1,18 @@
+body {
+    background-color: #eceff1;
+}
+
+#form-ask {
+    margin-top: 5vh;
+}
+
+nav a img {
+    width: 8vw;
+    margin-left: 4vh;
+}
+
+.container {
+    padding-left: 10vh;
+    padding-right: 10vh;
+    padding-top: 5vh;
+}
